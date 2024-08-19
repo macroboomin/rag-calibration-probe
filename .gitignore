@@ -1,0 +1,7 @@
+hotpot_qa/faiss/
+wiki/faiss_wiki/
+*.pickle
+*.parquet
+*.json
+*.pth
+*.DS_Store
